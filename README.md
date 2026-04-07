@@ -53,5 +53,5 @@ Desarrollo de interfaces y flujos para automatizar tareas concretas con foco en 
 - GitHub: [@lluqlu](https://github.com/lluqlu)
 
 <p align="center">
-  <sub>Construyendo proyectos reales, paso a paso.</sub>
+  <sub>2026</sub>
 </p>
