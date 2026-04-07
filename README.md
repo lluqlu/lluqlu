@@ -55,3 +55,4 @@ Desarrollo de interfaces y flujos para automatizar tareas concretas con foco en 
 <p align="center">
   <sub>2026</sub>
 </p>
+# ds2026-actividades
